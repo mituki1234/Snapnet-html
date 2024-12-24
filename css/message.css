@@ -1,14 +1,15 @@
 .message {
     width: 100%;
     min-height: 100vh;
+    margin-top: 0.5em;
 }
 .message-box {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
     min-height: 5vh;
-    margin-top: 0.5em;
     background-color: white;
+    border-top: 1px solid gray;
 }
 .message-icon {
     width: 3em;
