@@ -37,7 +37,7 @@
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: var(--option-text);
+    color: gray;
 }
 .option-button:hover {
     background-color: var(--option-button-hover);
