@@ -7,6 +7,7 @@
     margin-left: 5%;
     margin-right: 5%;
     min-height: 5vh;
+    margin-top: 0.5em;
 }
 .message-icon {
     width: 3em;
@@ -20,7 +21,7 @@
 }
 .message-user {
     font-family: 'Noto Sans JP';
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 .message-user-id {
     font-family: 'Noto Sans JP';
@@ -29,6 +30,10 @@
 }
 .message-time {
     font-family: 'Noto Sans JP';
-    font-size: 1.3em;
+    font-size: 1.2em;
     margin-left: auto;
+}
+.message-text {
+    font-family: 'Noto Sans JP';
+    font-family: 1.0em;
 }
