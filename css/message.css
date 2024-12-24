@@ -15,6 +15,7 @@
     background-image: url(/img/icon.png);
 }
 .message-top {
-    width: 1.5em;
+    height: 1.5em;
+    width: 100%;
     display: flex;
 }
