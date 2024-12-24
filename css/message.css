@@ -3,9 +3,9 @@
     min-height: 100vh;
 }
 .message-box {
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     min-height: 5vh;
 }
 .message-icon {
@@ -17,4 +17,18 @@
     height: 3em;
     width: 100%;
     display: flex;
+}
+.message-user {
+    font-family: 'Noto Sans JP';
+    font-size: 1.3em;
+}
+.message-user-id {
+    font-family: 'Noto Sans JP';
+    font-size: 1em;
+    color: gray;
+}
+.message-time {
+    font-family: 'Noto Sans JP';
+    font-size: 1.3em;
+    margin-left: auto;
 }
