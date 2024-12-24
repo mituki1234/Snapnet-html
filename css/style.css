@@ -1,13 +1,8 @@
-.display {
-    display: flex;
-    width: 100%;
-    min-height: 100vh;
-}
-.sidebar {
-    width: 30%;
-    min-height: 100vh;
+html, body {
+    margin: 0;
+    padding: 0;
 }
 .middle {
-    width: 70%;
+    width: 50%;
     min-height: 100vh;
 }

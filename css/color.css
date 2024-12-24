@@ -1,0 +1,8 @@
+:root {
+    --base-color: rgb(134, 179, 0);
+    --option-text: rgb(0, 0, 0);
+    --option-text-hover: rgb(29, 161, 242, 0.7);
+    --base: rgb(29, 161, 242);
+    --option-button: rgb(255, 255, 255);
+    --option-button-hover: rgb(29, 161, 242, 0.3);
+}
