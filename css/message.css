@@ -23,7 +23,7 @@
 }
 .message-user {
     font-family: 'Noto Sans JP';
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 .message-user-id {
     font-family: 'Noto Sans JP';
@@ -32,7 +32,7 @@
 }
 .message-time {
     font-family: 'Noto Sans JP';
-    font-size: 1.2em;
+    font-size: 1em;
     margin-left: auto;
 }
 .message-text {
