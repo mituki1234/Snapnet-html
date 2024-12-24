@@ -4,9 +4,9 @@
     margin-top: 0.5em;
 }
 .message-box {
-    width: 90%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
     min-height: 5vh;
     background-color: white;
     border-bottom: 1px solid gray;
