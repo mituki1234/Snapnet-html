@@ -5,4 +5,5 @@ html, body {
 .middle {
     width: 60%;
     min-height: 100vh;
+    background-color: #e7e7e7;
 }
