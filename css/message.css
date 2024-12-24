@@ -9,7 +9,7 @@
     margin-right: 5%;
     min-height: 5vh;
     background-color: white;
-    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
 }
 .message-icon {
     width: 3em;
