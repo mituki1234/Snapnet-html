@@ -8,3 +8,12 @@
     margin-right: 10%;
     min-height: 5vh;
 }
+.message-icon {
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 1.5em;
+}
+.message-top {
+    width: 1.5em;
+    display: flex;
+}
