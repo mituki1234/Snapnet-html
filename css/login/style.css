@@ -1,0 +1,39 @@
+.login-form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 2em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    background-color: #f9f9f9;
+}
+
+.login-form h2 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+}
+
+.login-form button {
+    width: 100%;
+    padding: 0.7em;
+    border: none;
+    border-radius: 0.5em;
+    background-color: rgb(29, 161, 242);
+   color: white;
+    font-size: 1em;
+}
+.login-form button:hover {
+    background-color: rgb(29, 161, 242, 0.7);
+}
